@@ -7841,7 +7841,7 @@ textarea.form-control-lg {
 }
 
 .bg-dark {
-  --bs-bg-opacity: 1;
+  
   background-image: url(/src/img/banner.png);
   width: auto;
   height: auto;
